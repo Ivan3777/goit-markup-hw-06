@@ -495,6 +495,10 @@ img {
   background-color: #2196f3;
 }
 
+.checkbox:focus + .custom-checkbox {
+  border-color: #2196f3;
+}
+
 .checkbox-icon {
   fill: #ffffff;
   opacity: 0;
