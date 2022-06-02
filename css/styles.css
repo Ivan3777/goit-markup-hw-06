@@ -50,9 +50,6 @@ img {
   overflow: hidden;
 }
 
-.navigation__list,
-.header-contacts,
-.mail-header,
 .list-desk,
 .list-gallery,
 .list-team,
@@ -118,6 +115,8 @@ img {
 
   padding: 0;
   margin: 0;
+
+  list-style: none;
 }
 
 .navigation__item {
@@ -180,6 +179,8 @@ img {
   display: flex;
 
   margin-left: auto;
+
+  list-style: none;
 }
 
 .header-contacts__item {
